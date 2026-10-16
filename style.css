@@ -19,7 +19,7 @@ p{font-size:16px;
   background-color:white;
  }
 
-ul{list-styletype:none;
+ul{list-style-type:none;
    text-align:center;
   }
 
@@ -38,10 +38,6 @@ p.filosofi {
     font-size: 16px;
     text-align: justify;
     color: white;
-    margin-top: 10px;
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
     background-color:transparent;
           }
 
