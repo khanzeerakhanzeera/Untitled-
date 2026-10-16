@@ -35,7 +35,7 @@ img{width:200px;
     margin: 0 auto;
    }
 
-.filosofi {
+p.filosofi {
     font-size: 14px;
     text-align: justify;
     color: white;
@@ -43,6 +43,7 @@ img{width:200px;
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
+    background-color:transparant;
           }
 
 h2{text-align:center;
