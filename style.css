@@ -4,15 +4,15 @@ h1{color:yellow;
   }
 
 body{background-color:lightblue;
-    border: 5px solid lightgreen;
+    border:5px solid lightgreen;
      margin-left:auto;
      margin-right:auto;
-     border-radius: 25px;
-     max-widht: 1024px;
-     min-widht: 256px;
+     border-radius:25px;
+     max-widht:1024px;
+     min-widht:256px;
     }
 
-p{font-size: 10px;
+p{font-size:10px;
  font-family:times new roman;
  text-align:center;
   color: white;
@@ -24,10 +24,10 @@ ul{list-styletype:none;
   }
 
 li{display:inline;
-   padding: 4px;
+   padding:4px;
   }
 
-img{width: 200px;
+img{width:200px;
     height: auto;    
     display: block;
     margin: 0 auto;
