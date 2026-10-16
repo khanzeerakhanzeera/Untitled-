@@ -18,3 +18,9 @@ p{font-size:14px;
   color: white;
   background-color: grey;
  }
+
+ul{list-styletype:none;
+  }
+
+li{display:inline;padding:4px;
+  }
