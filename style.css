@@ -1,4 +1,4 @@
-h1{color:beige;
+h1{color:grey;
   text-align:center;
   font-family:Times new roman;
   }
@@ -20,7 +20,10 @@ p{font-size:14px;
  }
 
 ul{list-styletype:none;
+   text-align:center;
   }
 
 li{display:inline;padding:4px;
   }
+
+img{widht
