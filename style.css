@@ -43,11 +43,11 @@ p.filosofi {
 
 h2{text-align:center;
    color:yellow;
-   font-family:Times new roman
+   font-family:Times new roman;
   }
 
-ol{list-style-type:disc;
-  text-align:center
+ol{list-style-type:decimal;
+  text-align:center;
   }
 
 .navbar{
