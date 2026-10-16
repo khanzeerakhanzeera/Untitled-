@@ -4,15 +4,15 @@ h1{color:grey;
   }
 
 body{background-color:lightblue;
-    border:5px solid grey;
+    border:5 px solid grey;
      margin-left:auto;
      margin-right:auto;
-     border-radius:25px;
-     max-widht:1024px;
-     min-widht:256px;
+     border-radius:25 px;
+     max-widht:1024 px;
+     min-widht:256 px;
     }
 
-p{font-size:14px;
+p{font-size:10 px;
  font-family:times new roman;
  text-align:center;
   color: white;
@@ -23,8 +23,8 @@ ul{list-styletype:none;
    text-align:center;
   }
 
-li{display:inline;padding:4px;
+li{display:inline;padding:4 px;
   }
 
-img{widht:20px;
+img{widht:20 px;
    }
