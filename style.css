@@ -46,4 +46,19 @@ h2{text-align:center;
    font-family:Times new roman
   }
 
-p.makna warna{}
+ol{list-style-type:disc;
+  text-align:center
+  }
+
+.navbar{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: lightblue;
+    }
+
+.navbar li{
+    display: inline-block;
+    padding: 10px 20px;
+    font-weight: bold;
+    }
