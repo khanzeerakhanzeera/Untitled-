@@ -23,7 +23,7 @@ ul{list-style-type:none;
    text-align:center;
   }
 
-li{display:inline;
+ul li{display:inline;
    padding:4px;
    color: white;
   }
@@ -35,7 +35,7 @@ img{width:200px;
    }
 
 p.filosofi {
-    font-size: 16px;
+    font-size: 18px;
     text-align: center;
     color: white;
     background-color:transparent;
@@ -47,8 +47,14 @@ h2{text-align:center;
   }
 
 ol{list-style-type:decimal;
-  text-align:center;
+  text-align:left;
+  font-size: 18px;
   }
+
+ol li{display: list-item; 
+    margin: 6px 0;     
+    color: white;
+     }
 
 .navbar{
     list-style-type: none;
