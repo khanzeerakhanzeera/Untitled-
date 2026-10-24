@@ -16,7 +16,7 @@ p{font-size:16px;
  font-family:times new roman;
  text-align:center;
   color: lightgreen;
-  background-color:white;
+  background-color:navy;
  }
 
 ul{list-style-type:none;
@@ -25,7 +25,7 @@ ul{list-style-type:none;
 
 ul li{display:inline;
    padding:4px;
-   color: white;
+   color:navy;
   }
 
 img{width:200px;
@@ -37,7 +37,7 @@ img{width:200px;
 p.filosofi {
     font-size: 18px;
     text-align: center;
-    color: dark blue;
+    color:navy;
     background-color:transparent;
           }
 
