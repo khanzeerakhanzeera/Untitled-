@@ -25,7 +25,7 @@ ul{list-style-type:none;
 
 ul li{display:inline;
    padding:4px;
-   color:navy;
+   color: dark blue;
   }
 
 img{width:200px;
@@ -53,7 +53,7 @@ ol{list-style-type:decimal;
 
 ol li{display: list-item; 
     margin: 6px 0;     
-    color: white;
+    color: dark blue;
      }
 
 .navbar{
