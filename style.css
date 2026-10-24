@@ -34,8 +34,11 @@ ul li{display:inline;
 }
 
 .kartu {
-    width: auto;
-    height: auto;
+    width: 100%;
+    height: 100vh;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
 }
 
 img {
