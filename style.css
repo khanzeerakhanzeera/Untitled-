@@ -34,7 +34,11 @@ img{width: 800px;
     display: block;
     margin: 0 auto;
    }
-
+img{widht 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+   }
 p.filosofi {
     font-size: 18px;
     text-align: center;
