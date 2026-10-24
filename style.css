@@ -28,17 +28,21 @@ ul li{display:inline;
    color: dark blue;
   }
 
-img{width: 800px;
-    max width: 100%;
-    height: auto;    
-    display: block;
-    margin: 0 auto;
-   }
-img{widht 500px;
+ .logo {
+    width: 300px;
     height: auto;
+}
+
+.kartu {
+    width: 500px;
+    height: auto;
+}
+
+img {
+    max-width: 100%;
     display: block;
     margin: 0 auto;
-   }
+}
 p.filosofi {
     font-size: 18px;
     text-align: center;
